@@ -273,6 +273,9 @@ SkK5VPtmTm3mQKYaJQFRZP - ok
 ./mk_86: error while loading shared libraries: libcudart.so.11.0:
 cannot open shared object file: No such file or directory
 ```
+For Ubuntu<br>
+```sudo apt-get install libcudart.so.11.0```
+
 
 For vast.ai RTX 4090 USE:<br>
 Image: nvidia/cuda:11.0.3-devel-ubuntu20.04
