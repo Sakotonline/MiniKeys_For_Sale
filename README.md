@@ -278,7 +278,8 @@ SkK5VPtmTm3mQKYaJQFRZP - ok
 cannot open shared object file: No such file or directory
 ```
 For Ubuntu<br>
-```sudo apt-get install libcudart.so.11.0```
+```sudo apt-get install libcudart.so.11.0```<br>
+or install CUDA 11.7 [HIRE](https://developer.nvidia.com/cuda-11-7-0-download-archive?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=deb_local)
 
 
 For vast.ai RTX 4090 USE:<br>
